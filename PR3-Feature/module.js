@@ -1,1 +1,3 @@
-function module(){}
+function module(){
+  console.log('Hi')
+}
