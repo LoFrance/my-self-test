@@ -1,2 +1,4 @@
 // To Do
-function module(){}
+function module(){
+    console.log('Hello')
+}
